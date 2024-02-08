@@ -2,5 +2,5 @@
 
 ## About
 
-For practicing jQuery I'm recreating the classic game Simon.
+For practicing jQuery I've recreated the classic game Simon.
 Please enjoy.
